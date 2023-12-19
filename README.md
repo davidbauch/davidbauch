@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, coding, and tech.
 - 🌱 I’m currently a PHD student in physics. I'm interested in learning C/C++, Python, and maybe other languages.
 
-# My most precious creations
+# Stuff I did:
 
 These are the projects I am most proud of. I created most of them during work or for fun in my free time.
 
