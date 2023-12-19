@@ -4,7 +4,7 @@
 
 # Stuff I did:
 
-These are the projects I am most proud of. I created most of them during work or for fun in my free time.
+These are some of the projects I created during work or for fun in my free time.
 
 ## [Quantum Simulation Program QDaCC](https://github.com/davidbauch/QDaCC)
 
