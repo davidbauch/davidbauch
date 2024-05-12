@@ -42,3 +42,9 @@ Main Language: `Python, Jupyter Notebook`
 Yay, Mandelbrot!
 
 Main Language: `C++`
+
+## [Mini Projects](https://github.com/davidbauch/fun-stuff)
+
+Some very small things, usually inspired by some Twitter Post or Youtube Short.
+
+Main Language: `Python, Jupyter`
