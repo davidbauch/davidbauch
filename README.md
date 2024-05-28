@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, coding, and tech.
 - 🌱 I’m currently a PHD student in physics. I'm interested in learning C/C++, Python, and maybe other languages.
 
-# Stuff I did:
+# Work related projects:
 
 These are some of the projects I created during work or for fun in my free time.
 
@@ -31,20 +31,17 @@ Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Compu
 Main Language: `CUDA, C++`
 
 
-# Interesting Stuff
-
-## [Eigenvalue Visualizer](https://github.com/davidbauch/eigenvalue_visualizer)
-
-Main Language: `Python, Jupyter Notebook`
-
-## [(Very old) Fractal Calculator](https://github.com/davidbauch/FractalSolver)
-
-Yay, Mandelbrot!
-
-Main Language: `C++`
+# Free Time Things
 
 ## [Mini Projects](https://github.com/davidbauch/fun-stuff)
 
-Some very small things, usually inspired by some Twitter Post or Youtube Short.
+Some very small things, usually inspired by some Twitter Post or Youtube Short. Sometimes "mini" also means 12 hours in a row.
 
 Main Language: `Python, Jupyter`
+
+
+## [(Very old) Fractal Calculator](https://github.com/davidbauch/FractalSolver)
+
+Yay, Mandelbrot! Very old though, probably doesn't run anymore.
+
+Main Language: `C++`
