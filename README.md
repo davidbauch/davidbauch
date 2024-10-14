@@ -26,7 +26,7 @@ Main Language: `Python, PyQT`
 
 ## [Polariton Condensate Simulation](https://github.com/davidbauch/PC3):
 
-Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Computing) -> PC³. This program uses GPU acceleration and is actually really quite fast.
+Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Computing). This program uses GPU acceleration and is actually really quite fast. It's also optimized fairly well as a CPU version, leveraging SIMD to surpass the typical memory bandwidth limits.
 
 Main Language: `CUDA, C++`
 
