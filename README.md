@@ -6,6 +6,12 @@
 
 These are some of the projects I created during work or for fun in my free time.
 
+## [Polariton Condensate Simulation](https://github.com/davidbauch/PC3):
+
+Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Computing). This program uses GPU acceleration and is actually really quite fast. It's also optimized fairly well as a CPU version, leveraging SIMD to surpass the typical memory bandwidth limits.
+
+Main Language: `CUDA, C++`
+
 ## [Quantum Simulation Program QDaCC](https://github.com/davidbauch/QDaCC)
 
 A quantum simulation solving Lindblad-type systems using the density matrix approach and the von Neuman equation. The code contains beautiful gradients of both old and new code for a beautiful display of my learning curve [I deleted most of the bad code :)].
@@ -23,12 +29,6 @@ Main Language: `Python`
 User interface for QDaCC. Very helpful, enhances workflow by at least an order of magnitude.
 
 Main Language: `Python, PyQT`
-
-## [Polariton Condensate Simulation](https://github.com/davidbauch/PC3):
-
-Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Computing). This program uses GPU acceleration and is actually really quite fast. It's also optimized fairly well as a CPU version, leveraging SIMD to surpass the typical memory bandwidth limits.
-
-Main Language: `CUDA, C++`
 
 
 # Free Time Things
