@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @davidbauch
 - 👀 I’m interested in physics, coding, and tech.
-- 🌱 I’m currently a PHD student in physics. I'm interested in learning C/C++, Python, and maybe other languages.
+- 🌱 I’m currently a Research and Development Software Engineer at HHLA Sky GmbH in Hamburg.
 
 # Work related projects:
 
@@ -9,6 +9,8 @@ These are some of the projects I created during work or for fun in my free time.
 ## [Polariton Condensate Simulation](https://github.com/davidbauch/PC3):
 
 Polariton Condensates simulated on the PC² (Paderborn Center for Parallel Computing). This program uses GPU acceleration and is actually really quite fast. It's also optimized fairly well as a CPU version, leveraging SIMD to surpass the typical memory bandwidth limits.
+
+It's continued in [the Schumacher Workgroup in Paderborn](https://github.com/Schumacher-Group-UPB/PHOENIX).
 
 Main Language: `CUDA, C++`
 
